@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Fragment_Landscape_Portrait_Mode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Login_Registration_SharedPreferences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Login_Splash_SharedPreferences_Animation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Multiple_Fragments_on_Activity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PassengersList_Using_RecylerView_R2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RvOnFrags_R1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SplashScreen_And_Implicit_Intents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Splash_And_Intent_Types_SMSManager" vcs="Git" />
+  </component>
+</project>
